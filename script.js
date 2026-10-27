@@ -1,6 +1,6 @@
 // NOVA ROBOTICS starter interactions.
 // Replace this placeholder with an email address you control before publishing.
-const CONTACT_EMAIL = "replace-with-your-email@example.com";
+const CONTACT_EMAIL = "ranjeet.7energetic@gmail.com";
 
 const menuToggle = document.querySelector("#menuToggle");
 const mainNav = document.querySelector("#mainNav");
